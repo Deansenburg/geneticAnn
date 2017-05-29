@@ -1,0 +1,9 @@
+[submodule "genetic"]
+	path = genetic
+	url = https://github.com/Deansenburg/genetic
+[submodule "ann"]
+	path = ann
+	url = https://github.com/Deansenburg/ann
+[submodule "geneticAnn"]
+	path = geneticAnn
+	url = https://github.com/Deansenburg/ann
